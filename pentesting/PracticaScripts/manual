@@ -1,0 +1,94 @@
+# Manual nuevo entorno de trabajo
+
+
+# Preselectores
+# win + ctrl + alt + {izq, arr, ab, der}
+
+# Cerrar preselector
+# win + ctrl + alt + espacio
+
+# Ajustar tamaño
+# win + alt + {1...0}
+
+# Cambiar entre escritorios
+# win +'{1...9}'
+
+# Rofi
+# win + d 
+
+# Abrir terminar
+# win + enter
+
+# Aplicar cambios en el sxhkdrc 
+# win + esc 
+
+# Aplicar cambios en la polybar y visuales
+# win + shift + r
+
+# Kill 'terminal'
+# win + q 
+
+# Cambiar 'terminales'
+# win + {izq,der,ar,ab}
+
+# Ventana flotante
+# win + s 
+
+# Full screen 
+# win + f
+
+# Reajustar ventana flotante
+# win + t
+
+
+# Regular size de la 'terminal'
+# win + alt + {izq,der,ar,ab}
+
+# Mover 'terminal'
+# win + ctrl + {izq,der,ar,ab}
+
+# Previsualizar proxima ventana
+# ctrl + win + alt + {izq,der,ar,ab}
+
+# Enviar a otro escritorio
+# win + shift + {1...9}
+
+# Volver a la pantalla de bloqueo
+# win + shift + q
+
+
+#######################################
+############ K I T T Y ###############
+
+# Abrir nueva consola
+# ctrl + shift + enter
+
+# Acomodar consola
+# ctrl + shift + l 
+
+# Rotar ventanas 
+# ctrl + shift + b
+
+# Cambiar de consola
+# ctrl + {izq, arr, der, ab}
+
+# Cambiar nombre de contexto de consola
+# ctrl + shift + t 
+
+# Renombrar contexto de consola
+# ctrl + shift + alt + t 
+
+# Moverse entre contextos de consola
+# ctrl + shift + {izq, der}
+
+# Mover contexto de consola
+# ctrl + shift + {',' , '.' }
+
+# Resize 
+# ctrl + shift + r 
+
+
+
+
+
+
